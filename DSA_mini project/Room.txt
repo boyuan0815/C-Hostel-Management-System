@@ -1,0 +1,15 @@
+101 Single 50
+102 Single 50
+103 Double 80
+104 Double 80
+105 Deluxe 100
+106 Single 50
+107 Deluxe 100
+108 Double 80
+109 Single 50
+110 Deluxe 100
+111 Double 80
+112 Single 50
+113 Deluxe 100
+114 Double 80
+115 Single 50
